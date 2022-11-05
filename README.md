@@ -5,6 +5,8 @@
 
 - 🖥️ **Homelab Enthusiast**
 
+- 🖥️ **Ex Penetration Tester*
+
 - 🗃️ **Digital Data Hoarder**
 
 - 📹 **Ex Video Editor**
