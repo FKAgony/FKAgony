@@ -5,7 +5,7 @@
 
 - 🖥️ **Homelab Enthusiast**
 
-- 🖥️ **Ex Penetration Tester*
+- 🖥️ **Ex Penetration Tester**
 
 - 🗃️ **Digital Data Hoarder**
 
