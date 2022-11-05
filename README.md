@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Agony</h1>
+<h3 align="center">Your Local Nerd</h3>
 
-<!--
-**FKAgony/FKAgony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **🐧 Greek Locale Of [DistroChooser.de](https://distrochooser.de/)🐧**
 
-Here are some ideas to get you started:
+- 🖥️ **Homelab Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗃️ **Digital Data Hoarder**
+
+- 📹 **Ex Video Editor**
+
+- 👨‍💻 All of my projects are available at [INeedAPortfolioToJoinGithub?](INeedAPortfolioToJoinGithub?)
+
+- ⚡ Fun fact **Im Nerd**
+
+<h3 align="left">List Of My Hobbies</h3>
+<p align="left">
+  
+- 🌱 Console Emulation
+- 🌱 QEMU/KVM
+- 🌱 Minecraft AI
+- 🌱 Self-Hosting Services
+</p>
+
+<h3 align="left">Contributions</h3>
+<p align="left">
+ 
+- 🐧
+ 
+</p>
