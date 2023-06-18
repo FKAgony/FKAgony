@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agony</h1>
 <h3 align="center">Your Local Nerd</h3>
 
-- 🔭 I’m currently working on **🐧 Greek Locale Of [DistroChooser.de](https://distrochooser.de/)🐧**
+- 🔭 I’m currently working on **Nothing**
 
 - 🖥️ **Homelab Enthusiast**
 
@@ -27,6 +27,6 @@
 <h3 align="left">Contributions</h3>
 <p align="left">
  
-- 🐧
+- 🐧 Greek Locale Of [DistroChooser.de](https://distrochooser.de/)
  
 </p>
